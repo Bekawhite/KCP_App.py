@@ -599,3 +599,4 @@ elif sidebar_choice == "Offline":
     if st.button("Sync Now"):
         st.success("✅ All pending records synced successfully.")
 
+
